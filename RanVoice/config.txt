@@ -1,0 +1,1 @@
+{"name":"芝士小然然","mute":false,"mic":true,"vol":100,"antiNoise":0,"host":"127.0.0.1"}
